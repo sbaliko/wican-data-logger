@@ -16,7 +16,7 @@ WiCAN Data Logger v3 is a standalone Python 3 script that automatically discover
 
 The script uses **zero external dependencies** — only the Python standard library (`urllib`, `ssl`, `csv`, `json`, `socket`, `concurrent.futures`).
 
-Primary use case: real-time logging of OBD-II diagnostic data from electric vehicles (tested with the **Hyundai Ioniq Electric 38 kWh**) via the WiCAN Pro's HTTP API.
+Primary use case: real-time logging of OBD-II diagnostic data from electric vehicles (tested with the **Hyundai Ioniq Electric 2021 38 kWh**) via the WiCAN Pro's HTTP API.
 
 ## Features
 
